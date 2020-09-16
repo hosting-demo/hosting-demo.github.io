@@ -1,4 +1,4 @@
-### To-Do
+# To-Do
 
 <ol>
   <li>Make github page</li>
@@ -7,6 +7,6 @@
 </ol>
 
 
-# Edit Page
+### Edit Page
 You can use the [editor on GitHub](https://github.com/hosting-demo/hosting-demo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown 
 
